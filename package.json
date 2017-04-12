@@ -1,0 +1,19 @@
+{
+  "name": "okcoders-week-3-homework",
+  "version": "1.0.0",
+  "description": "Node app for reading information from JSON database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aenglish1/OK-Coders-Day-3.git"
+  },
+  "author": "aaron h. english <aaron.h.english@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aenglish1/OK-Coders-Day-3/issues"
+  },
+  "homepage": "https://github.com/Aenglish1/OK-Coders-Day-3#readme"
+}
