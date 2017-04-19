@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aenglish1/OK-Coders-Day-3/issues"
   },
-  "homepage": "https://github.com/Aenglish1/OK-Coders-Day-3#readme"
+  "homepage": "https://github.com/Aenglish1/OK-Coders-Day-3#readme",
+  "dependencies": {
+    "mongodb": "^2.2.26"
+  }
 }
