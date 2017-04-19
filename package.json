@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Aenglish1/OK-Coders-Day-3#readme",
   "dependencies": {
+    "jsonfile": "^2.4.0",
     "mongodb": "^2.2.26"
   }
 }
